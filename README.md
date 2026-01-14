@@ -1,9 +1,11 @@
-Craftyfy Automation Testing Framework
+Craftyfy Automation Testing Framework :
+
 This project is a Selenium automation framework built using Java + Selenium + TestNG + Maven to test the Craftyfy e-commerce website.
 
 Application URL: https://craftyfy-frontend.vercel.app/
 
-Tech Stack Used
+Tech Stack Used :
+
 Java
 Selenium WebDriver
 TestNG
