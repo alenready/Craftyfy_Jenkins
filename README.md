@@ -13,39 +13,7 @@ JDBC (MySQL)
 Git & GitHub
 Eclipse IDE
 
-Craftyfy Project Structure
-
-src
-├── main
-│ ├── java
-│ │ 
-│ │ 
-│ │ 
-│ └── resources
-│ └── config.properties
-│
-├── test
-│ └── java
-   ├── base → BaseTest (browser setup & teardown)
-   ├── pages → Page Object classes (HomePage, LoginPage, CartPage)
-   ├── utils → ConfigReader, DBUtils, ScreenshotUtils
-│  └── tests → TestNG test classes (LoginTest, CartTest)
-│
-|
-├── src/test/resources
-│   ├── 
-│   └── config.properties
-│
-├── target
-│   ├── screenshots
-│   
-├── test-output
-│   └── junit-reports
-|
-├── pom.xml
-├── testng.xml
-└── README.md
-
+📂 craftfy Project Structure
 
 
 
